@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearnToolbar</string>
+    <string name="action_favorite">favorite</string>
+    <string name="action_settings">settings</string>
+    <string name="action_search">search</string>
+    <string name="search_hint">input some to search</string>
+</resources>
